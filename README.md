@@ -4,13 +4,9 @@ Beautiful SVG badges for social platforms with dynamic text and styling. Perfect
 
 ## Examples
 
-<image src="https://stylish-social-buttons.vercel.app/?social=facebook&text=Your-text">
-<image src="https://stylish-social-buttons.vercel.app/?social=instagram&text=Frost_Prism">
-<image src="https://stylish-social-buttons.vercel.app/?social=telegram&text=Prime_Hritu">
+<image src="https://stylish-social-buttons.vercel.app/?social=facebook&text=Your-text"><image src="https://stylish-social-buttons.vercel.app/?social=instagram&text=Frost_Prism"><image src="https://stylish-social-buttons.vercel.app/?social=telegram&text=Prime_Hritu">
 
-<image src="https://stylish-social-buttons.vercel.app/?social=snapchat&text=Your-Text">
-<image src="https://stylish-social-buttons.vercel.app/?social=youtube&text=Your-Text">
-<image src="https://stylish-social-buttons.vercel.app/?social=github&text=Prime-Hritu">
+<image src="https://stylish-social-buttons.vercel.app/?social=snapchat&text=Your-Text"><image src="https://stylish-social-buttons.vercel.app/?social=youtube&text=Your-Text"><image src="https://stylish-social-buttons.vercel.app/?social=github&text=Prime-Hritu">
 
 ---
 
